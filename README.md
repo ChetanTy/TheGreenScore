@@ -1,3 +1,4 @@
+Website is live at https://chetanty.github.io/TheGreenScore/
 # Team
 Chetan Tyagi, Yash Mouje, Krish Mehta and Hiritikk Kumar.
 # Introduction
